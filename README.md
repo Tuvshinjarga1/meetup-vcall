@@ -1,4 +1,5 @@
-<!-- Header -->
+<!-- Header
+
 <div align="center">
     <h1>Real-Time Audio & Video Communication with WebRTC</h1>
 </div>
@@ -33,6 +34,6 @@ A fully functional WebRTC-based real-time communication platform, supporting pee
 ---
 
 <div align="center">
-    Made with ♥️ by 
+    Made with ♥️ by
     <a href="https://github.com/ArnavGuptaaa">Nav</a>.
-</div>
+</div> -->
